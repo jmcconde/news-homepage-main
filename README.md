@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/jmcconde/news-homepage-main]
+- Live Site URL: [https://gleaming-paprenjak-e52e74.netlify.app/]
 
 ## My process
 
